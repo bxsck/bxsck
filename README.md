@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Teerapat Surasin
+# Hi, I'm Bosck
 
 ## 🚀 About Me
 Software Engineer passionate about modern web development and blockchain technologies, with 4 years of experience in building scalable solutions. I thrive in Agile environments and have experience as both a developer and Scrum Master.
