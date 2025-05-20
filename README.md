@@ -3,8 +3,8 @@
 ## 🚀 About Me
 Software Engineer passionate about modern web development and blockchain technologies, with 4 years of experience in building scalable solutions. I thrive in Agile environments and have experience as both a developer and Scrum Master.
 
-- 🔭 I'm currently working at **SkillLane Technology** as a Software Engineer
-- 💼 Previously worked with SCG Digital Office, KOS Design, and Easy Rice Digital Technology
+- 🔭 I'm currently working at **AXONS** as a Software Engineer
+- 💼 Previously worked with SkillLane, SCG Digital Office, KOS Design, and Easy Rice Digital Technology
 - 🌱 I'm specializing in web development and blockchain technologies
 - 📫 How to reach me: teerapat.srs@gmail.com
 - 🌐 Check out my portfolio: https://bosckts.vercel.app
