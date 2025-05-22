@@ -1,4 +1,7 @@
-# Hi, I'm Bosck
+<div align="center">
+  <h1>👋 Hi, I'm Bosck 👨‍💻</h1>
+  <p>Passionate Software Engineer specializing in Web & Blockchain Development</p>
+</div>
 
 ## 🚀 About Me
 Software Engineer passionate about modern web development and blockchain technologies, with 4 years of experience in building scalable solutions. I thrive in Agile environments and have experience as both a developer and Scrum Master.
@@ -36,23 +39,33 @@ Software Engineer passionate about modern web development and blockchain technol
 
 ## 💼 Experience Highlights
 
-- 🚀 Built scalable multi-tenant Learning Management Systems
-- 🎓 Led development teams as Scrum Master
-- 🔗 Developed smart contracts and NFT marketplace on Polygon network
-- 📈 Optimized content delivery systems with monitoring
+- 🚀 Engineered and deployed scalable, multi-tenant Learning Management Systems to support diverse user groups. ([details](#))
+- 🎓 Effectively led Agile development teams as Scrum Master, fostering collaboration and improving project delivery velocity. ([details](#))
+- 🔗 Designed, developed, and deployed secure smart contracts and a feature-rich NFT marketplace on the Polygon network. ([details](#))
+- 📈 Significantly improved the performance and reliability of content delivery systems by implementing strategic optimizations and robust monitoring solutions. ([details](#))
 
 ## 📊 GitHub Stats (Sadly, mostly of my contributions are in the private repositories)
 
-![Teerapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bxsck&show_icons=true&theme=radical)
+![Teerapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bxsck&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bxsck&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bxsck&layout=compact&theme=tokyonight)
 
 ## 📈 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bxsck&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bxsck&theme=tokyonight)](https://git.io/streak-stats)
 
+<!-- 
+**Optional: Add more ways to connect! Here are a few suggestions:**
+
+[![X (formerly Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/YOUR_USERNAME_HERE)
+[![Dev.to](https://img.shields.io/badge/dev.to-%230A0A0A.svg?logo=dev.to&logoColor=white)](https://dev.to/YOUR_USERNAME_HERE)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@YOUR_USERNAME_HERE)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YOUR_USER_ID/YOUR_USERNAME_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=globe&logoColor=white)](https://bosckts.vercel.app) 
+*(Remember to replace `YOUR_USERNAME_HERE` or `YOUR_USER_ID` with your actual details)*
+-->
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/teerapat-srs)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/bxsck)
 
 ---
-⭐️ From [bxsck](https://github.com/bxsck)
+_Last updated: 2024-07-15_
