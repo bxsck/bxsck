@@ -10,7 +10,6 @@ Software Engineer passionate about modern web development and blockchain technol
 - 💼 Previously worked with SkillLane, SCG Digital Office, KOS Design, and Easy Rice Digital Technology
 - 🌱 I'm specializing in web development and blockchain technologies
 - 📫 How to reach me: teerapat.srs@gmail.com
-- 🌐 Check out my portfolio: https://bosckts.vercel.app
 - 🌍 Based in Bangkok, Thailand
 
 ## 🛠️ Skills
