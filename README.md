@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Teerapat “Bosck” Surasin</h1>
-  <p>Tech Lead Engineer • AI Systems • Cloud & Infrastructure</p>
+  <p>Software Engineer</p>
 </div>
 
 ### About  
-I’m a **Tech Lead Engineer** focused on designing, building, and operating intelligent distributed systems.  
+I’m a **Software Engineer** focused on designing, building, and operating intelligent distributed systems.  
 My work bridges backend architecture, AI integration, and infrastructure automation — turning ideas into resilient, production-grade software.
 
 With 5+ years in engineering, I specialize in:
@@ -18,7 +18,7 @@ With 5+ years in engineering, I specialize in:
 ### Core Technologies  
 TypeScript · Node.js · Python · Next.js · NestJS · React  
 PostgreSQL · MongoDB · Redis · Docker · Kubernetes · Terraform  
-AWS · DigitalOcean · Nginx · LangChain · OpenAI API  
+AWS · DigitalOcean · GCP
 
 ---
 
