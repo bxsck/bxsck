@@ -1,40 +1,37 @@
 <div align="center">
-  <h1>Teerapat “Bosck” Surasin</h1>
-  <p>Software Engineer</p>
+
+# Teerapat "Bosck" Surasin
+
+Software Engineer · Bangkok, Thailand
+
+building systems that scale & teams that ship
+
+[bosck.dev](https://bosck.dev) · [LinkedIn](https://linkedin.com/in/teerapat-srs) · [teerapat@bosck.dev](mailto:teerapat@bosck.dev)
+
 </div>
 
-### About  
-I’m a **Software Engineer** focused on designing, building, and operating intelligent distributed systems.  
-My work bridges backend architecture, AI integration, and infrastructure automation — turning ideas into resilient, production-grade software.
-
-With 5+ years in engineering, I specialize in:
-- **AI & Retrieval Systems** — vector search, hybrid RAG, LLM orchestration  
-- **Scalable Backends** — async pipelines, caching, message queues, REST APIs  
-- **Cloud & Infra** — Docker, Kubernetes, Terraform, secure edge networking  
-- **Observability & Reliability** — tracing, metrics, automated health checks  
-
 ---
 
-### Core Technologies  
-TypeScript · Node.js · Python · Next.js · NestJS · React  
-PostgreSQL · MongoDB · Redis · Docker · Kubernetes · Terraform  
-AWS · DigitalOcean · GCP
+### About
 
----
+Shipped my first production code in 2020 and stayed curious since — bounced through
+web, mobile, blockchain, cloud infra, and AI by pulling on threads, not by plan.
 
-### Focus Areas  
-- End-to-end system design and automation for AI-driven platforms  
-- Multi-service architecture and infrastructure-as-code provisioning  
-- Production monitoring, observability, and continuous delivery pipelines  
-- Team mentorship and technical direction  
+These days I lead engineering on a manufacturing platform and do AI + full-stack work
+on the side. Most of it comes down to one idea: build AI-augmented workflows that let
+a small team punch way above its weight.
 
----
+### What I'm building
 
-### Contact  
-📫 [teerapat.srs@gmail.com](mailto:teerapat.srs@gmail.com)  
-🔗 [linkedin.com/in/teerapat-srs](https://www.linkedin.com/in/teerapat-srs/)  
-🐙 [github.com/bxsck](https://github.com/bxsck)
+- **A manufacturing MES** — software that runs factory floors. OR-Tools schedules work
+  orders so machines never sit idle; an AI chatbot lets operators run production in
+  plain language instead of clicking through dashboards.
+- **An AI-powered SDLC pipeline** — spec to verified PR, with agents doing the
+  execution and me making the decisions. PRD review, parallel build agents, live-app
+  Playwright QA, and a daily self-healing e2e loop.
 
----
+### Currently
 
-_Last updated: 2025-11-09_
+- building a factory OS from scratch
+- exploring AI agents that ship code
+- reading *Designing Data-Intensive Applications*
